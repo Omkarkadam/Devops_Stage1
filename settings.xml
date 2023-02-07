@@ -1,0 +1,12 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                              https://maven.apache.org/xsd/settings-1.0.0.xsd">
+  <servers>
+    <server>
+      <id>TestDevops2026</id>
+      <username>TestDevops2026</username>
+      <password>e7xusprgshux4ltdrjqrfuk5i3x7uq3c7cqlfwnfsmd2qxpwsaja</password>
+    </server>
+  </servers>
+</settings>
